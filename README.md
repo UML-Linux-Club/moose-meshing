@@ -13,6 +13,7 @@ Here we collect information for installation of Coreform-Cubit on typical system
 + [Create Mesh](#mesh)
 
 ## [Installation of Coreform-Cubit](#toc)<a id="Coreform-Cubit"></a>
+ Note: The cubit-learn license does not currently work on Linux distributions 
 1. Proceed to the following website and install respected .exe file
  + [Coreform-Cubit](https://coreform.com/products/downloads/) 
 2. Run the program 
