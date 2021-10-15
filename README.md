@@ -54,6 +54,6 @@ i.e inlet is curve 6
 2. Select the Entitiy `Surface`
 3. Select the Action `Intervals`
 4. Select `Automatic Sizing`
-    + note this is the most basic of all meshes (QUAD9)
+    + note this is the most basic of all meshes (QUAD4)
 5. Where it says surface ID select your surface
 6. Press `Mesh`
